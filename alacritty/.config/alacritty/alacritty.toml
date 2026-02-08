@@ -4,7 +4,8 @@ import = ["~/dotfiles/alacritty/.config/alacritty/themes/themes/hardhacker.toml"
 [env]
 # Environment variables - don't need any atm
 
-[window] = { columns = 75, lines = 14 }
+[window] 
+dimensions = { columns = 75, lines = 14 }
 
 [font]
 normal = { family = "DejaVuSansM Nerd Font", style = "Regular" }
