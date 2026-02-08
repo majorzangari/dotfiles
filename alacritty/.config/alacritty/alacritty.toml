@@ -1,0 +1,20 @@
+[general]
+import = ["~/dotfiles/alacritty/.config/alacritty/themes/themes/hardhacker.toml"]
+
+[env]
+# Environment variables - don't need any atm
+
+[window] = { columns = 75, lines = 14 }
+
+[font]
+normal = { family = "DejaVuSansM Nerd Font", style = "Regular" }
+bold = { family = "DejaVuSansM Nerd Font", style = "Bold" }
+italic = { family = "DejaVuSansM Nerd Font", style = "Italic" }
+bold_italic = { family = "DejaVuSansM Nerd Font", style = "Bold Italic" }
+size = 12
+
+[keyboard]
+bindings = [
+	{ key = "Q", mods = "Control", action = "Quit" },
+	{ key = "F", mods = "Control", action = "ToggleMaximized" },
+]
