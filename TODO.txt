@@ -1,0 +1,2 @@
+add kde settings (idk how to) (esp rebind caps lock to esc im gonna crash out)
+fix nvim config
