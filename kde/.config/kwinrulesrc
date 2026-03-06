@@ -1,0 +1,23 @@
+[21bd39d1-c5d1-4c3d-ae38-ae1966243424]
+Description=Open Alacritty to bottom right
+ignoregeometry=true
+ignoregeometryrule=3
+position=732,601
+positionrule=3
+title=Alacritty
+types=1
+wmclass=Alacritty
+wmclassmatch=1
+
+[General]
+count=1
+rules=21bd39d1-c5d1-4c3d-ae38-ae1966243424
+
+[a3715c98-0c3d-4119-b2cb-4c23e61e758b]
+Description=Settings for alacritty Alacritty
+position=0,100
+positionrule=3
+types=1
+wmclass=alacritty Alacritty
+wmclasscomplete=true
+wmclassmatch=2
