@@ -1,5 +1,5 @@
 [general]
-import = ["~/dotfiles/alacritty/.config/alacritty/themes/themes/hardhacker.toml"]
+import = ["~/dotfiles/alacritty/.config/alacritty/themes/themes/nordfox.toml"]
 
 [env]
 # Environment variables - don't need any atm

@@ -102,6 +102,9 @@ plugin=org.kde.plasma.brightness
 immutability=1
 plugin=org.kde.plasma.battery
 
+[Containments][52][Applets][57][Applets][74][Configuration][General]
+showPercentage=true
+
 [Containments][52][Applets][57][Applets][75]
 immutability=1
 plugin=org.kde.plasma.bluetooth
