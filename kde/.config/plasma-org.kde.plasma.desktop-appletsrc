@@ -59,10 +59,6 @@ plugin=org.kde.plasma.keyboardindicator
 immutability=1
 plugin=org.kde.plasma.cameraindicator
 
-[Containments][52][Applets][57][Applets][63]
-immutability=1
-plugin=org.kde.plasma.manage-inputmethod
-
 [Containments][52][Applets][57][Applets][64]
 immutability=1
 plugin=org.kde.plasma.notifications
@@ -70,6 +66,15 @@ plugin=org.kde.plasma.notifications
 [Containments][52][Applets][57][Applets][65]
 immutability=1
 plugin=org.kde.plasma.weather
+
+[Containments][52][Applets][57][Applets][65][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
+[Containments][52][Applets][57][Applets][65][Configuration][WeatherStation]
+placeDisplayName=Ithaca, United States, US
+placeInfo=Ithaca, United States, US|5122432
+provider=bbcukmet
 
 [Containments][52][Applets][57][Applets][66]
 immutability=1
@@ -102,9 +107,6 @@ plugin=org.kde.plasma.brightness
 immutability=1
 plugin=org.kde.plasma.battery
 
-[Containments][52][Applets][57][Applets][74][Configuration][General]
-showPercentage=true
-
 [Containments][52][Applets][57][Applets][75]
 immutability=1
 plugin=org.kde.plasma.bluetooth
@@ -113,9 +115,16 @@ plugin=org.kde.plasma.bluetooth
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
+[Containments][52][Applets][57][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
 [Containments][52][Applets][57][General]
-extraItems=org.kde.plasma.vault,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardindicator,org.kde.plasma.cameraindicator,org.kde.plasma.brightness,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.weather,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.kscreen,org.kde.plasma.devicenotifier
+disabledStatusNotifiers=Fcitx
+extraItems=org.kde.plasma.vault,org.kde.plasma.mediacontroller,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.cameraindicator,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.weather,org.kde.plasma.brightness
+hiddenItems=org.kde.plasma.printmanager,org.kde.plasma.cameraindicator,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.weather
 knownItems=org.kde.plasma.vault,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardindicator,org.kde.plasma.cameraindicator,org.kde.plasma.brightness,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.weather,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.kscreen,org.kde.plasma.devicenotifier
+shownItems=org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.brightness
 
 [Containments][52][Applets][71]
 immutability=1
