@@ -1,0 +1,29 @@
+[Added Associations]
+application/json=vim.desktop;
+application/pdf=firefox.desktop;
+application/x-docbook+xml=vim.desktop;
+application/x-yaml=vim.desktop;
+image/avif=firefox.desktop;
+image/jpeg=firefox.desktop;
+image/png=firefox.desktop;
+image/webp=firefox.desktop;
+text/markdown=vim.desktop;
+text/plain=vim.desktop;
+text/x-cmake=vim.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+
+[Default Applications]
+application/json=vim.desktop;
+application/pdf=firefox.desktop;
+application/x-docbook+xml=vim.desktop;
+application/x-yaml=vim.desktop;
+image/avif=firefox.desktop;
+image/jpeg=firefox.desktop;
+image/png=firefox.desktop;
+image/webp=firefox.desktop;
+text/markdown=vim.desktop;
+text/plain=vim.desktop;
+text/x-cmake=vim.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;

@@ -1,0 +1,10 @@
+[Libinput][1739][52619][SYNA8004:00 06CB:CD8B Touchpad]
+PointerAcceleration=0.200
+ScrollFactor=1.5
+TapAndDrag=false
+
+[Libinput][9094][17192][Raydium Corporation Raydium Touch System]
+Enabled=false
+
+[Mouse]
+cursorTheme=breeze_cursors

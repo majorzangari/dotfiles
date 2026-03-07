@@ -141,10 +141,12 @@ Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8a\
 ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
 TerminalApplication=alacritty
 TerminalService=Alacritty.desktop
+UseSystemBell=true
 
 [KDE]
 AnimationDurationFactor=0.7071067811865475
 LookAndFeelPackage=org.kde.breezedark.desktop
+widgetStyle=Fusion
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -169,7 +171,15 @@ Dialog Size=600,480
 [Shortcuts]
 Activate Next Tab=Ctrl+PgDown
 Activate Previous Tab=Ctrl+PgUp
+Back=Back
+DocumentBack=
+DocumentForward=
+Forward=Forward
+Up=
 ZoomIn=Ctrl+=
+
+[Sounds]
+Theme=freedesktop
 
 [WM]
 activeBackground=39,44,49
