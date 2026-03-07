@@ -2,7 +2,7 @@
 Description=Open Alacritty to bottom right
 ignoregeometry=true
 ignoregeometryrule=3
-position=732,601
+position=1170,766
 positionrule=3
 title=Alacritty
 types=1

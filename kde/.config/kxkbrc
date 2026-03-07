@@ -3,3 +3,6 @@ DisplayNames=
 Options=caps:escape,compose:prsc
 ResetOldOptions=true
 VariantList=
+LayoutList=us
+Use=true
+
