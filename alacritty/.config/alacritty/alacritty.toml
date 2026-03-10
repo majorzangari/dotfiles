@@ -1,10 +1,12 @@
 [general]
-import = ["~/dotfiles/alacritty/.config/alacritty/themes/themes/nordfox.toml"]
+import = [
+  "~/dotfiles/alacritty/.config/alacritty/themes/themes/everforest_dark.toml",
+]
 
 [env]
 # Environment variables - don't need any atm
 
-[window] 
+[window]
 dimensions = { columns = 75, lines = 14 }
 
 [font]
@@ -16,6 +18,6 @@ size = 12
 
 [keyboard]
 bindings = [
-	{ key = "Q", mods = "Control", action = "Quit" },
-	{ key = "F", mods = "Control", action = "ToggleMaximized" },
+  { key = "Q", mods = "Control", action = "Quit" },
+  { key = "F", mods = "Control", action = "ToggleMaximized" },
 ]
