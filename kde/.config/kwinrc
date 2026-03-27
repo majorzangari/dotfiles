@@ -20,6 +20,10 @@ zoomEnabled=false
 [Tiling][191803cd-9d7e-47c8-a139-c289555ebfc1][7086cd2d-2ba7-44a1-9265-d70a491a1e87]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][75d0b4ab-5c2d-4fda-8618-a076847ebd48][27fbb63a-0981-4aef-9599-165919dc23b4]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][75d0b4ab-5c2d-4fda-8618-a076847ebd48][3c5f5364-b890-480f-ab6e-3ee01d71a279]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

@@ -4,7 +4,7 @@ ScrollFactor=1.5
 TapAndDrag=false
 
 [Libinput][9094][17192][Raydium Corporation Raydium Touch System]
-Enabled=false
+Enabled=true
 
 [Mouse]
 cursorTheme=breeze_cursors

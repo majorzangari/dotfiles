@@ -132,11 +132,6 @@ ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
-[DirSelect Dialog]
-DirSelectDialog Size=864,540
-History Items[$e]=file:$HOME/dev/dsp/2fa/audio,file:$HOME/dev/thingggg,file:$HOME/dev/3410/maz76_A2,file:$HOME/dev/maz76_A1,file:$HOME/dev/mautlier-c/build,file:$HOME/Documents
-Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8a\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-
 [General]
 ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
 TerminalApplication=alacritty

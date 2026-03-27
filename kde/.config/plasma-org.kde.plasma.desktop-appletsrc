@@ -131,7 +131,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][52][Applets][71][Configuration]
-popupHeight=400
+popupHeight=451
 popupWidth=560
 
 [Containments][52][Applets][71][Configuration][Appearance]
@@ -149,6 +149,15 @@ plugin=org.kde.plasma.panelspacer
 
 [Containments][52][General]
 AppletOrder=78;57;71
+
+[Containments][79]
+activityId=54b53e7d-2592-4560-9690-df1f94482da9
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
 
 [ScreenMapping]
 itemsOnDisabledScreens=
