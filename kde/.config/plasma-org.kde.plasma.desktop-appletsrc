@@ -6,6 +6,7 @@ RightButton;NoModifier=org.kde.contextmenu
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][51]
+ItemGeometries-1422x800=
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
 activityId=54b53e7d-2592-4560-9690-df1f94482da9
@@ -155,6 +156,15 @@ activityId=54b53e7d-2592-4560-9690-df1f94482da9
 formfactor=0
 immutability=1
 lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][80]
+activityId=54b53e7d-2592-4560-9690-df1f94482da9
+formfactor=0
+immutability=1
+lastScreen=2
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image

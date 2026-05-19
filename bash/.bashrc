@@ -22,5 +22,3 @@ fi
 nvimn() {
   setsid alacritty -e nvim "$@" >/dev/null 2>&1 &
 }
-
-export PATH="$HOME/.cargo/bin:$PATH"

@@ -1,7 +1,11 @@
 [ImageSave]
-lastImageSaveAsLocation=file:///home/cubic/Pictures/Screenshots/deutsch.png
+lastImageSaveAsLocation=
 lastImageSaveLocation=file:///home/cubic/Pictures/Screenshots/deutsch.png
 translatedScreenshotsFolder=Screenshots
 
 [VideoSave]
 translatedScreencastsFolder=Screencasts
+
+[ViewerWindow]
+1920x1080 screen: Height=512
+1920x1080 screen: Width=960
